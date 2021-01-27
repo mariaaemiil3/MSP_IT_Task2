@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(pexels-photo-1169754.jpeg);
+    background-position: center;
+    background-size: cover;
+    font-family: cursive;
+    margin-top: 40px;
+}
+#signup{
+    width: 520px;
+    background-color: rgb(0,0,0,0.6);
+    margin: auto;
+    color: #ffff;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+#formDev{
+    background-color: rgb(0,0,0,0.5);
+    width: 520px;
+    margin: auto;
+}
+form{
+    padding: 10px;
+}
+#fNameLabel{
+    
+    margin-top: 30px;
+    width: 125px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+}
+#lNameLabel{
+     margin-top: 30px;
+    width: 125px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+}
+#fName{
+    position: relative;
+    width: 100px;
+    line-height: 30px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 10px;
+}
+#lName{
+    position: relative;
+    width: 100px;
+    line-height: 30px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 10px; 
+}
+.col-25{
+    margin-left: 100PX;
+    margin-top: 30px;
+    width: 125px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+}
+#email{
+    position: relative;
+    width: 250px;
+    line-height: 30px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 12px; 
+    margin-left: 100PX;
+}
+#number{
+    position: relative;
+    width: 250px;
+    line-height: 30px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 12px; 
+    margin-left: 100PX;
+}
+#password{
+    position: relative;
+    width: 250px;
+    line-height: 30px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 12px; 
+    margin-left: 100PX;
+}
+#bDay{
+    position: relative;
+    width: 250px;
+    line-height: 30px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 12px; 
+    margin-left: 100PX;
+}
+#male{
+    margin-left: 100PX;
+}
+#female{
+    margin-left: 100PX;
+}
+.col-75{
+    color: white;
+}
+#submitButton{
+    margin-left: 100PX;
+    border-radius: 6PX;
+    width: 80PX;
+    line-height: 20px;
+}
+#submitButton:hover{
+    background-color: dodgerblue;
+}
+#img{
+        
+    border-radius: 6PX;
+    width: 80PX;
+    line-height: 20px;
+}
+#zz{
+color: white;
+}
